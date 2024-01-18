@@ -78,7 +78,7 @@ data.head(5)
 """# Text Preprocessing"""
 
 from tensorflow import keras
- from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.text import Tokenizer
 
 """# What is Tokenizer ?
 Text tokenization utility class.
