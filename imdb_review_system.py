@@ -11,7 +11,7 @@ Original file is located at
 
 import pandas as pd
 
-data = pd.read_csv("/content/drive/MyDrive/imdb/IMDB Dataset.csv")
+data = pd.read_csv("dataset/IMDB Dataset.csv")
 data.head()
 
 """# Data Visualization"""
